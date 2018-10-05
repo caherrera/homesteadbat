@@ -1,0 +1,6 @@
+{
+    "name":"caherrera/homesteadbat",
+    "description": "Provides homestead.bat file",
+    "bin": "homestead.bat",
+    "license": "MIT"
+}
